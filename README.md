@@ -1,2 +1,2 @@
 # faceDetection
-Algoritmo de Reconhecimento Facial (JavaScripty)
+Algoritmo de Reconhecimento Facial (JavaScript)
